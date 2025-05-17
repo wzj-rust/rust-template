@@ -89,3 +89,17 @@ cargo tokei 是代码统计工具
 ```shell
 cargo install tokei
 ```
+
+## 如何使用
+### 创建项目
+```shell
+cargo generate --git https://github.com/wzj-rust/rust-template.git
+```
+
+## License
+
+This project is distributed under the terms of MIT.
+
+See [LICENSE](LICENSE.md) for details.
+
+Copyright 2025 wu_zhijun

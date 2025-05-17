@@ -2,4 +2,4 @@
 flate = "flate"
 
 [files]
-extend-exclude = ["Cargo.lock", "target/*"]
+extend-exclude = ["Cargo.lock", "target/*", "CHANGELOG.md", "notebooks/*"]
